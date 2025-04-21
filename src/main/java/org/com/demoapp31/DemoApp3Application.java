@@ -1,16 +1,15 @@
-package org.lois.demoapp31;
+package org.com.demoapp31;
 
-import org.lois.demoapp31.entities.Patient;
-import org.lois.demoapp31.entities.Product;
-import org.lois.demoapp31.repository.PatientRepository;
-import org.lois.demoapp31.repository.ProductRepository;
+import org.com.demoapp31.entities.Patient;
+import org.com.demoapp31.entities.Product;
+import org.com.demoapp31.repository.PatientRepository;
+import org.com.demoapp31.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.data.domain.PageRequest;
-import org.springframework.data.domain.Pageable;
 
 import java.util.Date;
 

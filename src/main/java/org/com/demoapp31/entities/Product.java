@@ -1,4 +1,4 @@
-package org.lois.demoapp31.entities;
+package org.com.demoapp31.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

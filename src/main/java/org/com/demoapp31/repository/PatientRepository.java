@@ -1,6 +1,6 @@
-package org.lois.demoapp31.repository;
+package org.com.demoapp31.repository;
 
-import org.lois.demoapp31.entities.Patient;
+import org.com.demoapp31.entities.Patient;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

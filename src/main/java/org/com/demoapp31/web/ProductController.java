@@ -1,6 +1,6 @@
-package org.lois.demoapp31.web;
+package org.com.demoapp31.web;
 
-import org.lois.demoapp31.repository.ProductRepository;
+import org.com.demoapp31.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
